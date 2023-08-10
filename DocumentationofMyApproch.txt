@@ -1,0 +1,33 @@
+
+
+
+Overview:
+    This Testcafe is design to automate a testcases, which makes it reliable and efficent.
+  The primary focus is to check functinality of Login page(URL provided) with with valid 
+  as well as invalid crediantials.
+
+Test Scenarios: 
+    1.Login with valid credintials and validate the actual result with expected using
+    assertion provided by Testcafe(including Crossbrowser)
+      steps: Go to URL> enter username >enter password>click on login button>validate 
+    2. Login with invalid credintials and print out the message in console using console.log.
+      steps: Go to URL> enter invalidusername >enter invalid password>click on login button>print
+       error message(including Crossbrowser)
+
+Challenges:
+   1. Settijup Testcafe: I alredy have Nodejs and VS code but settingup testcafe was little bit
+     hard for me after some errors i was able to install Testcafe.
+   2. At first I faced some dificulty in selcting textbox,button selctor and how to implement it in code
+   3. Assertions: face some minor dificulty in asserting results as well.
+      This was some challenges/dificulties I face during this assignement but after some time
+       I was handy with Testcafe sructure.
+
+
+
+ Name: Yash Pawar
+Contact: pawaryash97@gmail.com or imyashpawar@gmail.com
+        +91 9637549995                                                        
+    
+     
+    
+
